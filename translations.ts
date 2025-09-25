@@ -18,7 +18,7 @@ export const translations: Translations = {
     delete: 'Delete',
     
     // Sidebar
-    geminiAi: 'Gemini AI',
+    geminiAi: 'Khmer AI',
     newChat: 'New Chat',
     search: 'Search...',
     generateImage: 'Generate Image',
@@ -26,7 +26,7 @@ export const translations: Translations = {
     history: 'History',
 
     // Welcome Screen
-    welcomeTitle: "Hello, I'm Gemini",
+    welcomeTitle: "Hello, I'm AI",
     welcomeSubtitle: "How can I help you today?",
     welcomeSearchNote: "I'm connected to Google Search for up-to-date answers.",
 
@@ -96,7 +96,7 @@ export const translations: Translations = {
     delete: 'លុប',
 
     // Sidebar
-    geminiAi: 'Gemini AI',
+    geminiAi: 'Khmer AI',
     newChat: 'ការជជែកថ្មី',
     search: 'ស្វែងរក...',
     generateImage: 'បង្កើតរូបភាព',
@@ -104,7 +104,7 @@ export const translations: Translations = {
     history: 'ប្រវត្តិ',
     
     // Welcome Screen
-    welcomeTitle: 'សួស្តី ខ្ញុំ Gemini',
+    welcomeTitle: 'សួស្តី ខ្ញុំ AI',
     welcomeSubtitle: 'តើខ្ញុំអាចជួយអ្វីអ្នកបានខ្លះ?',
     welcomeSearchNote: 'ខ្ញុំបានភ្ជាប់ជាមួយ Google Search សម្រាប់ចម្លើយថ្មីៗ។',
 
